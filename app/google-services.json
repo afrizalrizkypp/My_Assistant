@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "345750908515",
+    "firebase_url": "https://tubes-92db3.firebaseio.com",
+    "project_id": "tubes-92db3",
+    "storage_bucket": "tubes-92db3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345750908515:android:83dc1d08e3f0afd8",
+        "android_client_info": {
+          "package_name": "com.myassistant.aldiros.coba_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345750908515-26gcl37tt2qs7bsrfr3sv4ednoevqtv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myassistant.aldiros.coba_firebase",
+            "certificate_hash": "56d63a77f6d6a57ec942f21e538d9ae24f78cf12"
+          }
+        },
+        {
+          "client_id": "345750908515-l5ubftfaft9klcvagiesj8smg64lmlva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myassistant.aldiros.coba_firebase",
+            "certificate_hash": "daf1262783612ca2429f43f5ee4041434fdd84f1"
+          }
+        },
+        {
+          "client_id": "345750908515-d1moccroau72cm9kqnv4i1ecj8ujkp3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArF9d5eZ59c_ABmENKZ8j9KVErxPx69SQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345750908515-d1moccroau72cm9kqnv4i1ecj8ujkp3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
